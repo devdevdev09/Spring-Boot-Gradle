@@ -1,4 +1,4 @@
-package com.test.gradle.gradletest;
+package com.tst.heo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
