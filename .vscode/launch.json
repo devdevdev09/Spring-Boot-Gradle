@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GradletestApplication<gradletest>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tst.heo.GradletestApplication",
+            "projectName": "gradletest",
+            "args": ""
+        }
+    ]
+}
